@@ -1,0 +1,6 @@
+name: Cache Crashie
+version: 1.0
+description: Recover cache when it has been corrupted, rendering the site inaccessible.
+url: https://github.com/FrittenKeeZ/statamic-cache-crashie
+developer: Frederik Sauer
+developer_url: https://github.com/FrittenKeeZ
